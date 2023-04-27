@@ -163,7 +163,7 @@ body {
     position: absolute;
     object-fit: contain;
     left: -25%;
-    top: 20%;
+    top: 15%;
 }
 
 #page2 #image1 img {
@@ -178,7 +178,7 @@ body {
     position: absolute;
     object-fit: contain;
     right: -25%;
-    top: -15%;
+    top: -10%;
 }
 
 #page2 #image2 img {
